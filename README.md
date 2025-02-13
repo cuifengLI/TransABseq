@@ -35,7 +35,8 @@ To validate the model's performance on the independent test set, please use the 
 
 # TransABseq Prediction Performance Comparison
 
-![TransABseq Prediction Performance Comparison](images/compare_TransABseq_label.jpg)
+![TransABseq Prediction Performance Comparison1](images/compare_TransABseq_label.jpg)
+![TransABseq Prediction Performance Comparison2](images/two_row_six_images.jpg)
 
 # Contact
 
